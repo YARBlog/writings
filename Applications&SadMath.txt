@@ -1,0 +1,15 @@
+**math is rad and i am sad**
+
+Ever hear someone make the classic "logarithms amiright" joke? I always found it so strange, considering that logarithms are among the most useful tools in math (aside from basic stuff like symbols, and a complete-ish formal system). First off, they're the inverse of an exponential (2^log_2(n) = n), and considering the applications of exponentials (population growth, disease expansion, engineering, etc), it would be nice to have the inverse function of all of these to find out what input an output is given (like what time a population reached a specific number). Secondly, and personally a bit more excitingly, the logarithm is used in the prime counting function pi(x), which counts all of the primes up to a given number x. pi(x) is approximately = ln(x), meaning that we can use logarithms to find the amount of primes up to x at complexity O(1) rather than O(x). This loosely ties to cyrptograhpy which uses large prime numbers for asymmetric key encryption. Thirdly, logarithms create very efficient algorithms (O(nlogn) complexity specifically), as they grow very slowly as n grows. Finally, and this is by no stretch a complete list, logarithms are used to solve exponential equations because of the fact that they are an inverse to the exponential.
+
+**to quote !vihart: "logarithms, while not being an avant garde wood drumming practice, are totally highly applicable."**
+
+Applied math is one of the best subjects of all time, objectively. Taking an object and applying subjects describing abstract objects of the mind that justsohappen to not object at all with aligning with the real object in a picture-perf-ect way is always so satisfying. Applied math is also useful, which is something that I'm not.
+
+**"i am so blue" -Alex G."**
+
+It might just be the caffeine withdraw, but today was an absolute mess. I was tired out of my mind, not even just sleep-tired, but tired of everything happening. Tired of the fact that I could never make a mistake without complete ridicule from myself (which happens a lot). Tired of the fact that every day I wish I was someone else. tired of the simple fact that living is painful and uncomfortable and yet i still chase completely arbitrary goals. tired
+
+**"get on with it!" -A large group of people after hearing about the logistics of swallows carrying coconuts across continents, and how it could possibly be done with 2 swallows teaming together but at that point it could just be too much or-**
+
+My life isn't all that bad in terms of physical conditions. I am, after all, a slightly above-average middle class white cis hetero guy. I'm just mad at being on the verge of making it to the sweet sweet end of the bell curve, but I always seem to fail one way or another. And I know it's because I'm not getting enough sleep or consuming too much entertainment, but considering all of the over-scrutiny I put on myself, I'm always incredibly tired when I get home, which leads to me doing nothing the entire day and writing a shitty blog post at 11:13 PM, waiting for my life to fall apart.
