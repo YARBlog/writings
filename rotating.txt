@@ -1,0 +1,3 @@
+**f(x,y) = something**
+
+Here's something I thought about for approximately 5 minutes before solving: is there a function that can describe the rotation of a given point (x,y) by some degree A?
